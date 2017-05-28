@@ -1,3 +1,10 @@
+# Mac os x
+.DS_Store
+
+# Jetbrains
+.idea
+cmake-build-debug
+
 # Prerequisites
 *.d
 
